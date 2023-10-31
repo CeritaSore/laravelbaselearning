@@ -1,6 +1,6 @@
 # laravelbaselearning
-
-repositori untuk update pembelajaran laravel di msib
+Repositori untuk menyimpan data progres belajar Laravel
 
 # 31 oktober 2023
-membuat repo
+- membuat repositori
+- menambah file project laravel
